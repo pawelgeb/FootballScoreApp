@@ -1,0 +1,17 @@
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\obj\Debug\net6.0\FootballStatics.csproj.AssemblyReference.cache
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\obj\Debug\net6.0\FootballStatics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\obj\Debug\net6.0\FootballStatics.AssemblyInfoInputs.cache
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\obj\Debug\net6.0\FootballStatics.AssemblyInfo.cs
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\obj\Debug\net6.0\FootballStatics.csproj.CoreCompileInputs.cache
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\bin\Debug\net6.0\FootballStatics.exe
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\bin\Debug\net6.0\FootballStatics.deps.json
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\bin\Debug\net6.0\FootballStatics.runtimeconfig.json
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\bin\Debug\net6.0\FootballStatics.dll
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\bin\Debug\net6.0\FootballStatics.pdb
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\obj\Debug\net6.0\FootballStatics.dll
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\obj\Debug\net6.0\refint\FootballStatics.dll
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\obj\Debug\net6.0\FootballStatics.pdb
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\obj\Debug\net6.0\FootballStatics.genruntimeconfig.cache
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\obj\Debug\net6.0\ref\FootballStatics.dll
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\bin\Debug\net6.0\MQTTnet.dll
+C:\Projects\MQTTapp\SecondApp\MQTTPublisher\ConsoleApp1\obj\Debug\net6.0\FootballStatics.csproj.CopyComplete
